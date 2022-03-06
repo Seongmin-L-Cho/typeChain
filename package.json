@@ -4,5 +4,9 @@
   "description": "learn typescript",
   "main": "index.js",
   "repository": "https://github.com/Seongmin-L-Cho/typeChain.git",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
