@@ -1,0 +1,8 @@
+{
+  "name": "blockChain-type",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.js",
+  "repository": "https://github.com/Seongmin-L-Cho/typeChain.git",
+  "license": "MIT"
+}
